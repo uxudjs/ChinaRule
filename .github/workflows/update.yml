@@ -21,9 +21,9 @@ jobs:
       with:
         python-version: "3.11"
 
-    - name: Run update_rules.py
+    - name: Run china_rule.py
       run: |
-        python update_rules.py
+        python china_rule.py
 
     - name: Commit and push changes
       run: |
