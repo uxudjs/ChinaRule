@@ -34,4 +34,4 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git add china_max_sr.list README.md || echo "Nothing to add"
         git commit -m "Auto update ChinaMax rules" || exit 0
-        git push origin main
+        git push origin HEAD:main --force
