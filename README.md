@@ -13,6 +13,9 @@ Update at UTC+8 3:00
 <a id="zh-cn"></a>
 ## 🇨🇳 简体中文
 
+### 简介
+小火箭 Shadowrocket & Surge 中国直连分流规则集（每日更新、多源聚合、自动去重）
+
 ### 订阅链接
 | 列表名称 | 代理工具 | 订阅链接 |
 |:--------:|---------|:--------:|
@@ -29,6 +32,9 @@ Update at UTC+8 3:00
 
 <a id="zh-tw"></a>
 ## 🇹🇼 繁體中文
+
+### 簡介
+小火箭 Shadowrocket & Surge 中國直連分流規則集（每日更新、多源聚合、自動去重）
 
 ### 訂閱連結
 | 列表名稱 | 代理工具 | 訂閱連結 |
@@ -47,6 +53,9 @@ Update at UTC+8 3:00
 <a id="en"></a>
 ## 🇺🇸 English
 
+### Introduction
+Shadowrocket & Surge China Direct Connect Rule Set (Daily Update, Multi-source Aggregation, Automatic Deduplication)
+
 ### Subscription Links
 | List Name | Proxy Tool | Subscription Link |
 |:---------:|------------|:-----------------:|
@@ -64,6 +73,9 @@ Current merged rule count: **54587**
 <a id="ja"></a>
 ## 🇯🇵 日本語
 
+### 概要
+Shadowrocket & Surge 中国ダイレクト接続ルールセット（毎日更新、マルチソース集約、自動重複排除）
+
 ### サブスクリプションリンク
 | リスト名 | プロキシツール | サブスクリプション URL |
 |:--------:|----------------|:---------------------:|
@@ -80,6 +92,9 @@ Current merged rule count: **54587**
 
 <a id="ko"></a>
 ## 🇰🇷 한국어
+
+### 소개
+Shadowrocket & Surge 중국 직접 연결 규칙 모음 (매일 업데이트, 다중 소스 통합, 자동 중복 제거)
 
 ### 구독 링크 
 | 리스트 이름 | 프록시 도구 | 구독 URL |
