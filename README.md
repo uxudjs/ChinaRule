@@ -23,7 +23,7 @@ Update at UTC+8 3:00
 
 - [https://whatshub.top/](https://whatshub.top/)  
 
-当前合并规则总数：**54591**
+当前合并规则总数：**54587**
 
 ---
 
@@ -40,7 +40,7 @@ Update at UTC+8 3:00
 
 - [https://whatshub.top/](https://whatshub.top/)  
 
-目前合併規則總數：**54591**
+目前合併規則總數：**54587**
 
 ---
 
@@ -57,7 +57,7 @@ Special thanks to the following sources for their rule contributions and ongoing
 
 - [https://whatshub.top/](https://whatshub.top/)  
 
-Current merged rule count: **54591**
+Current merged rule count: **54587**
 
 ---
 
@@ -74,7 +74,7 @@ Current merged rule count: **54591**
 
 - [https://whatshub.top/](https://whatshub.top/)  
 
-現在の結合ルール総数：**54591**
+現在の結合ルール総数：**54587**
 
 ---
 
@@ -91,7 +91,7 @@ Current merged rule count: **54591**
 
 - [https://whatshub.top/](https://whatshub.top/)  
 
-현재 통합 규칙 총 개수: **54591**
+현재 통합 규칙 총 개수: **54587**
 
 ---
 
