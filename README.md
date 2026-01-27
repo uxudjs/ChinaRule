@@ -26,7 +26,7 @@ Update at UTC+8 3:00
 
 - [https://whatshub.top/](https://whatshub.top/)  
 
-当前合并规则总数：**47108**
+当前合并规则总数：**47088**
 
 ---
 
@@ -46,7 +46,7 @@ Update at UTC+8 3:00
 
 - [https://whatshub.top/](https://whatshub.top/)  
 
-目前合併規則總數：**47108**
+目前合併規則總數：**47088**
 
 ---
 
@@ -66,7 +66,7 @@ Special thanks to the following sources for their rule contributions and ongoing
 
 - [https://whatshub.top/](https://whatshub.top/)  
 
-Current merged rule count: **47108**
+Current merged rule count: **47088**
 
 ---
 
@@ -86,7 +86,7 @@ Shadowrocket & Surge 中国ダイレクト接続ルールセット（毎日更�
 
 - [https://whatshub.top/](https://whatshub.top/)  
 
-現在の結合ルール総数：**47108**
+現在の結合ルール総数：**47088**
 
 ---
 
@@ -106,7 +106,7 @@ Shadowrocket & Surge 중국 직접 연결 규칙 모음 (매일 업데이트, �
 
 - [https://whatshub.top/](https://whatshub.top/)  
 
-현재 통합 규칙 총 개수: **47108**
+현재 통합 규칙 총 개수: **47088**
 
 ---
 
