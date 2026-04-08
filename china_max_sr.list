@@ -1,4 +1,4 @@
-# Updated time: 2026-04-07
+# Updated time: 2026-04-08
 # Total rules: 46762
 # Thanks: whatshub.top
 
@@ -32433,7 +32433,6 @@ IP-CIDR,218.249.0.0/16
 IP-CIDR,218.249.0.0/16,no-resolve
 IP-CIDR,218.252.0.0/17
 IP-CIDR,218.252.0.0/17,no-resolve
-IP-CIDR,218.252.128.0/19
 IP-CIDR,218.252.128.0/19,no-resolve
 IP-CIDR,218.253.0.0/18
 IP-CIDR,218.253.0.0/18,no-resolve
@@ -46470,6 +46469,7 @@ IP-CIDR,8.128.0.0/10,no-resolve
 IP-CIDR,8.128.0.0/12,no-resolve
 IP-CIDR,8.128.32.0/19
 IP-CIDR,8.128.32.0/19,no-resolve
+IP-CIDR,8.128.4.0/22
 IP-CIDR,8.128.64.0/19
 IP-CIDR,8.128.64.0/19,no-resolve
 IP-CIDR,8.128.96.0/20
