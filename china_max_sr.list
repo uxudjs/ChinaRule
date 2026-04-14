@@ -1,5 +1,5 @@
-# Updated time: 2026-04-13
-# Total rules: 46778
+# Updated time: 2026-04-14
+# Total rules: 46777
 # Thanks: whatshub.top
 
 DOMAIN,00713915daab0be43def5c338c02c80b.dlied1.cdntips.net
@@ -41347,7 +41347,7 @@ IP-CIDR,43.192.0.0/16
 IP-CIDR,43.192.0.0/16,no-resolve
 IP-CIDR,43.193.0.0/18
 IP-CIDR,43.193.0.0/18,no-resolve
-IP-CIDR,43.193.64.0/24
+IP-CIDR,43.193.64.0/23
 IP-CIDR,43.193.64.0/24,no-resolve
 IP-CIDR,43.194.0.0/20
 IP-CIDR,43.194.0.0/20,no-resolve
@@ -45253,9 +45253,8 @@ IP-CIDR,54.222.72.0/21
 IP-CIDR,54.222.72.0/21,no-resolve
 IP-CIDR,54.222.80.0/21
 IP-CIDR,54.222.80.0/21,no-resolve
-IP-CIDR,54.222.88.0/24
+IP-CIDR,54.222.88.0/22
 IP-CIDR,54.222.88.0/24,no-resolve
-IP-CIDR,54.222.90.0/23
 IP-CIDR,54.222.90.0/23,no-resolve
 IP-CIDR,54.222.96.0/23
 IP-CIDR,54.222.96.0/23,no-resolve
@@ -46540,7 +46539,7 @@ IP-CIDR,8.163.0.0/16
 IP-CIDR,8.163.0.0/16,no-resolve
 IP-CIDR,8.164.0.0/14
 IP-CIDR,8.164.0.0/14,no-resolve
-IP-CIDR,8.168.0.0/16
+IP-CIDR,8.168.0.0/15
 IP-CIDR,8.168.0.0/16,no-resolve
 IP-CIDR,8.208.0.0/12,no-resolve
 IP-CIDR,8.210.152.255/32
