@@ -24,7 +24,6 @@ RULE_URLS = [
     "https://whatshub.top/rule/XiaoHongShu.list",
     "https://whatshub.top/rule/Youku.list",
     "https://yfamilys.com/rule/Apple.list",
-    "https://yfamilys.com/rule/AppleCN.list",
     "https://yfamilys.com/rule/ChinaMedia.list",
     "https://yfamilys.com/rule/ChinaNoMedia.list",
     "https://whatshub.top/rule/ChinaMaxNoMedia.list",
