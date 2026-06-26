@@ -7,12 +7,12 @@ from datetime import datetime, timezone
 from typing import List, Set
 
 RULE_URLS = [
-    “https://yfamilys.com/rule/GitHub.list”,
-    “https://yfamilys.com/rule/Speedtest.list”,
-    “https://yfamilys.com/rule/Telegram.list”,
-    “https://yfamilys.com/rule/ProxyMedia.list”,
+    "https://yfamilys.com/rule/GitHub.list",
+    "https://yfamilys.com/rule/Speedtest.list",
+    "https://yfamilys.com/rule/Telegram.list",
+    "https://yfamilys.com/rule/ProxyMedia.list",
     "https://yfamilys.com/rule/GlobalMedia.list",
-    “https://yfamilys.com/rule/Proxy.list”,
+    "https://yfamilys.com/rule/Proxy.list",
     "https://yfamilys.com/rule/Global.list"
 ]
 
