@@ -1,42 +1,29 @@
-# Updated time: 2026-06-25
-# Total rules: 34483
+# Updated time: 2026-06-26
+# Total rules: 34491
 # Thanks: yfamilys.com
 
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
-DOMAIN,addons.mozilla.org
 DOMAIN,ai.google.dev
 DOMAIN,aistudio.google.com
-DOMAIN,amp-api.podcasts.apple.com
 DOMAIN,aod-dash-uk-live.akamaized.net
 DOMAIN,aod-hls-uk-live.akamaized.net
 DOMAIN,api.githubcopilot.com
 DOMAIN,api.groq.com
-DOMAIN,api.msn.com
+DOMAIN,api.imem.app
+DOMAIN,api.swiftgram.app
 DOMAIN,api.together.xyz
 DOMAIN,api.viu.now.com
-DOMAIN,api.waqi.info
-DOMAIN,aqi.aqicn.org
-DOMAIN,assets.msn.com
-DOMAIN,assets1.xboxlive.com
-DOMAIN,assets2.xboxlive.com
 DOMAIN,atv-ps.amazon.com
 DOMAIN,avodmp4s3ww-a.akamaihd.net
-DOMAIN,az416426.vo.msecnd.net
-DOMAIN,az668014.vo.msecnd.net
 DOMAIN,bahamut.akamaized.net
 DOMAIN,bard.google.com
 DOMAIN,bcbolt446c5271-a.akamaihd.net
 DOMAIN,bcbolthboa-a.akamaihd.net
-DOMAIN,beta.music.apple.com
-DOMAIN,books.apple.com
 DOMAIN,cdn.registerdisney.go.com
-DOMAIN,cdp.cloud.unity3d.com
 DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
-DOMAIN,clubhouse.pubnubapi.com
 DOMAIN,console.groq.com
 DOMAIN,content.jwplatform.com
 DOMAIN,copilot-proxy.githubusercontent.com
-DOMAIN,copilot.microsoft.com
 DOMAIN,d151l6v8er5bdm.cloudfront.net
 DOMAIN,d1k2us671qcoau.cloudfront.net
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net
@@ -70,33 +57,24 @@ DOMAIN,hbounify-prod.evergent.com
 DOMAIN,itvpnpmobile-a.akamaihd.net
 DOMAIN,kktv-theater.kk.stream
 DOMAIN,ktpx.amazon.com
-DOMAIN,lab.skk.moe
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
-DOMAIN,location.microsoft.com
-DOMAIN,login.microsoftonline.com
 DOMAIN,music.youtube.com
 DOMAIN,mytvsuperlimited.hb.omtrdc.net
 DOMAIN,mytvsuperlimited.sc.omtrdc.net
 DOMAIN,netflix.com.edgesuite.net
 DOMAIN,notebooklm.google.com
 DOMAIN,np-edge.itunes.apple.com
-DOMAIN,ocsp.int-x3.letsencrypt.org
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN,players.brightcove.net
 DOMAIN,s3-ap-southeast-1.amazonaws.com
-DOMAIN,search.yahoo.co.jp
-DOMAIN,self.events.data.microsoft.com
 DOMAIN,sydney.bing.com
 DOMAIN,theater-kktv.cdn.hinet.net
-DOMAIN,tv.apple.com
 DOMAIN,videos-f.jwpsrv.com
 DOMAIN,vod-dash-uk-live.akamaized.net
 DOMAIN,vod-thumb-uk-live.akamaized.net
-DOMAIN,wego.here.com
 DOMAIN,youtubei.googleapis.com
 DOMAIN,yt3.ggpht.com
 DOMAIN-KEYWORD,-spotify-
-DOMAIN-KEYWORD,.pinterest.
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,abema
@@ -119,6 +97,7 @@ DOMAIN-KEYWORD,dualstack.apiproxy-
 DOMAIN-KEYWORD,dualstack.ichnaea-web-
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,fbcdn
+DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,gle
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,goog
@@ -130,6 +109,7 @@ DOMAIN-KEYWORD,japonx
 DOMAIN-KEYWORD,japronx
 DOMAIN-KEYWORD,jooxweb-api
 DOMAIN-KEYWORD,netflixdnstest
+DOMAIN-KEYWORD,nicegram
 DOMAIN-KEYWORD,nivod
 DOMAIN-KEYWORD,nowtv100
 DOMAIN-KEYWORD,olevod
@@ -141,6 +121,7 @@ DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,rthklive
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,skydrive
+DOMAIN-KEYWORD,speedtest
 DOMAIN-KEYWORD,spotify
 DOMAIN-KEYWORD,spotify.com
 DOMAIN-KEYWORD,telegram
@@ -2634,7 +2615,6 @@ DOMAIN-SUFFIX,aiailah.com
 DOMAIN-SUFFIX,aibp888.com
 DOMAIN-SUFFIX,aichatting.net
 DOMAIN-SUFFIX,aichpoem.com
-DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,aidc.com.tw
 DOMAIN-SUFFIX,aiddata.org
 DOMAIN-SUFFIX,aidol.asia
@@ -2647,7 +2627,6 @@ DOMAIN-SUFFIX,aikidobravo.wixsite.com
 DOMAIN-SUFFIX,ailighter.com
 DOMAIN-SUFFIX,aim.org
 DOMAIN-SUFFIX,aimediagroup.com
-DOMAIN-SUFFIX,aimoon.com
 DOMAIN-SUFFIX,ainivod.com
 DOMAIN-SUFFIX,ainudez.com
 DOMAIN-SUFFIX,aiosearch.com
@@ -3339,7 +3318,6 @@ DOMAIN-SUFFIX,api.rc-backup.com
 DOMAIN-SUFFIX,api.recaptcha.net
 DOMAIN-SUFFIX,api.steampowered.com
 DOMAIN-SUFFIX,api.termius.com
-DOMAIN-SUFFIX,api.tiktokv.com
 DOMAIN-SUFFIX,api.vworldc.com
 DOMAIN-SUFFIX,api.walkscore.com
 DOMAIN-SUFFIX,api.waqi.info
@@ -3793,6 +3771,7 @@ DOMAIN-SUFFIX,atmospheres.cl
 DOMAIN-SUFFIX,atmovies.com.tw
 DOMAIN-SUFFIX,atn.co.za
 DOMAIN-SUFFIX,atnext.com
+DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,atomiccamel.com
 DOMAIN-SUFFIX,atomicwallet.io
 DOMAIN-SUFFIX,atopporn.com
@@ -4856,9 +4835,7 @@ DOMAIN-SUFFIX,billypan.com
 DOMAIN-SUFFIX,bilyoner.com
 DOMAIN-SUFFIX,bimiacg.one
 DOMAIN-SUFFIX,bimiacg4.net
-DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,binance.com
-DOMAIN-SUFFIX,binance.me
 DOMAIN-SUFFIX,binance.org
 DOMAIN-SUFFIX,binance.us
 DOMAIN-SUFFIX,binancezh.biz
@@ -7455,7 +7432,6 @@ DOMAIN-SUFFIX,coin98.com
 DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,coinbene.com
 DOMAIN-SUFFIX,coinbig.com
-DOMAIN-SUFFIX,coincheck.com
 DOMAIN-SUFFIX,coinchoice.net
 DOMAIN-SUFFIX,coincircle.com
 DOMAIN-SUFFIX,coindataflow.com
@@ -7602,6 +7578,7 @@ DOMAIN-SUFFIX,content.office.net
 DOMAIN-SUFFIX,content.wuala.com
 DOMAIN-SUFFIX,content.xmoxa.com
 DOMAIN-SUFFIX,contentparty.org
+DOMAIN-SUFFIX,contest.com
 DOMAIN-SUFFIX,contestfx.com
 DOMAIN-SUFFIX,contests.twilio.com
 DOMAIN-SUFFIX,continuingcounterreformation.blogspot.com.au
@@ -8925,6 +8902,7 @@ DOMAIN-SUFFIX,deno.dev
 DOMAIN-SUFFIX,denpasoft.com
 DOMAIN-SUFFIX,dental.nyu.edu
 DOMAIN-SUFFIX,departuresvpn.tk
+DOMAIN-SUFFIX,dependabot.com
 DOMAIN-SUFFIX,dependent.de
 DOMAIN-SUFFIX,deportivoalaves.com
 DOMAIN-SUFFIX,depositphotos.com
@@ -13098,13 +13076,23 @@ DOMAIN-SUFFIX,gitbook.io
 DOMAIN-SUFFIX,gitbooks.io
 DOMAIN-SUFFIX,gitcdn.link
 DOMAIN-SUFFIX,githack.com
+DOMAIN-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net
+DOMAIN-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com
+DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
 DOMAIN-SUFFIX,github.blog
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.com.com
+DOMAIN-SUFFIX,github.community
 DOMAIN-SUFFIX,github.dev
 DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,githubhackathon.com
+DOMAIN-SUFFIX,githubnext.com
+DOMAIN-SUFFIX,githubpreview.dev
+DOMAIN-SUFFIX,githubstatus.com
+DOMAIN-SUFFIX,githubuniverse.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,gitlab.io
@@ -15034,7 +15022,6 @@ DOMAIN-SUFFIX,hoxx.com
 DOMAIN-SUFFIX,hoy.tv
 DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,hoyoung.com.tw
-DOMAIN-SUFFIX,hoyoverse.com
 DOMAIN-SUFFIX,hp.com
 DOMAIN-SUFFIX,hpdirect.com.hk
 DOMAIN-SUFFIX,hpeppe.com
@@ -15513,7 +15500,6 @@ DOMAIN-SUFFIX,ifdesign.com
 DOMAIN-SUFFIX,ifeelmyself.com
 DOMAIN-SUFFIX,ifex.org
 DOMAIN-SUFFIX,iff.uproxy.org
-DOMAIN-SUFFIX,ifixit.com
 DOMAIN-SUFFIX,ifj.org
 DOMAIN-SUFFIX,ifjc.org
 DOMAIN-SUFFIX,ifmat.org
@@ -19266,6 +19252,7 @@ DOMAIN-SUFFIX,mbetway88.agent1818.com
 DOMAIN-SUFFIX,mbmnewsnetwork.com
 DOMAIN-SUFFIX,mbmortgage.com
 DOMAIN-SUFFIX,mboxxxx.top
+DOMAIN-SUFFIX,mbrx.app
 DOMAIN-SUFFIX,mc-heads.net
 DOMAIN-SUFFIX,mc.yandex.ru
 DOMAIN-SUFFIX,mcadforums.com
@@ -19797,7 +19784,6 @@ DOMAIN-SUFFIX,mixer.com
 DOMAIN-SUFFIX,mixero.com
 DOMAIN-SUFFIX,mixi.jp
 DOMAIN-SUFFIX,mixin.one
-DOMAIN-SUFFIX,mixlr.com
 DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,mixpod.com
 DOMAIN-SUFFIX,mixrolik.ru
@@ -20489,6 +20475,7 @@ DOMAIN-SUFFIX,mynaughtymassage.com
 DOMAIN-SUFFIX,mynetav.net
 DOMAIN-SUFFIX,mynetav.org
 DOMAIN-SUFFIX,mynumber.org
+DOMAIN-SUFFIX,myoctocat.com
 DOMAIN-SUFFIX,myok.eu
 DOMAIN-SUFFIX,myorz.com
 DOMAIN-SUFFIX,myoutube.com
@@ -21454,6 +21441,9 @@ DOMAIN-SUFFIX,nozomi.la
 DOMAIN-SUFFIX,np2.com.tw
 DOMAIN-SUFFIX,npa.go.jp
 DOMAIN-SUFFIX,npf.org.tw
+DOMAIN-SUFFIX,npm.community
+DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,npnt.com.tw
 DOMAIN-SUFFIX,npnt.me
 DOMAIN-SUFFIX,nps.gov
@@ -21967,6 +21957,7 @@ DOMAIN-SUFFIX,oogami.name
 DOMAIN-SUFFIX,ooglester.com
 DOMAIN-SUFFIX,oojj.de
 DOMAIN-SUFFIX,ookangzheng.com
+DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,ooni.io
 DOMAIN-SUFFIX,ooni.org
 DOMAIN-SUFFIX,ooo-sex.com
@@ -22035,6 +22026,7 @@ DOMAIN-SUFFIX,openprompt.co
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,openshift.redhat.com
 DOMAIN-SUFFIX,opensocietyfoundations.org
+DOMAIN-SUFFIX,opensource.guide
 DOMAIN-SUFFIX,openstreetmap.com
 DOMAIN-SUFFIX,openstreetmap.org
 DOMAIN-SUFFIX,openstreetmaps.org
@@ -24341,7 +24333,6 @@ DOMAIN-SUFFIX,readingtimes.com.tw
 DOMAIN-SUFFIX,readmoo.com
 DOMAIN-SUFFIX,readtiger.com
 DOMAIN-SUFFIX,ready.gov
-DOMAIN-SUFFIX,readyatdawn.com
 DOMAIN-SUFFIX,readydown.com
 DOMAIN-SUFFIX,readysetcam.com
 DOMAIN-SUFFIX,realafricans.com
@@ -24511,6 +24502,7 @@ DOMAIN-SUFFIX,renyurenquan.org
 DOMAIN-SUFFIX,renzhecloud.com
 DOMAIN-SUFFIX,repian.com
 DOMAIN-SUFFIX,repo.chariz.com
+DOMAIN-SUFFIX,repo.new
 DOMAIN-SUFFIX,repo.vivaldi.com
 DOMAIN-SUFFIX,repocym.com.ar
 DOMAIN-SUFFIX,reporeporecord.blog.fc2blog.us
@@ -26213,7 +26205,6 @@ DOMAIN-SUFFIX,smith.edu
 DOMAIN-SUFFIX,smlh.com.tw
 DOMAIN-SUFFIX,smn.news
 DOMAIN-SUFFIX,smokingsweeties.com
-DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,smplace.com
 DOMAIN-SUFFIX,sms-d-amour-poeme.com
 DOMAIN-SUFFIX,smssmp.edu.hk
@@ -26504,6 +26495,8 @@ DOMAIN-SUFFIX,spectrumlocalnews.com
 DOMAIN-SUFFIX,spectrumnews1.com
 DOMAIN-SUFFIX,spee.pro
 DOMAIN-SUFFIX,speechmessage.com.tw
+DOMAIN-SUFFIX,speed.cloudflare.com
+DOMAIN-SUFFIX,speed.dler.io
 DOMAIN-SUFFIX,speedcat.me
 DOMAIN-SUFFIX,speeder.cf
 DOMAIN-SUFFIX,speeder.ml
@@ -26802,6 +26795,7 @@ DOMAIN-SUFFIX,steeltv.carrd.co
 DOMAIN-SUFFIX,steemit.com
 DOMAIN-SUFFIX,steganos.com
 DOMAIN-SUFFIX,steganos.net
+DOMAIN-SUFFIX,stel.com
 DOMAIN-SUFFIX,stellar.org
 DOMAIN-SUFFIX,stellarism.com
 DOMAIN-SUFFIX,stellarterm.com
@@ -26896,7 +26890,6 @@ DOMAIN-SUFFIX,streamate.com
 DOMAIN-SUFFIX,streamera.tv
 DOMAIN-SUFFIX,streamguys1.com
 DOMAIN-SUFFIX,streamhoster.com
-DOMAIN-SUFFIX,streaming.mediaservices.windows.net
 DOMAIN-SUFFIX,streamingdisney.net
 DOMAIN-SUFFIX,streamingthe.net
 DOMAIN-SUFFIX,streamja.com
@@ -27586,6 +27579,7 @@ DOMAIN-SUFFIX,telecomspace.com
 DOMAIN-SUFFIX,telega.one
 DOMAIN-SUFFIX,telegeography.com
 DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telegram-cdn.org
 DOMAIN-SUFFIX,telegram.dog
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
@@ -27805,6 +27799,7 @@ DOMAIN-SUFFIX,thegamesdb.net
 DOMAIN-SUFFIX,thegay.com
 DOMAIN-SUFFIX,thegay.porn
 DOMAIN-SUFFIX,thegioitinhoc.vn
+DOMAIN-SUFFIX,thegithubshop.com
 DOMAIN-SUFFIX,theglobalist.com
 DOMAIN-SUFFIX,theglobalmail.org
 DOMAIN-SUFFIX,theglobalmarketeer.com
@@ -29655,6 +29650,7 @@ DOMAIN-SUFFIX,user.newsolids.com
 DOMAIN-SUFFIX,user.tf06.com
 DOMAIN-SUFFIX,useraudio.net
 DOMAIN-SUFFIX,usercenter.firemon.com
+DOMAIN-SUFFIX,usercontent.dev
 DOMAIN-SUFFIX,usercontent.goog
 DOMAIN-SUFFIX,userproxy.com
 DOMAIN-SUFFIX,users.dafeiji.one
@@ -31082,7 +31078,6 @@ DOMAIN-SUFFIX,wikimedia-dns.org
 DOMAIN-SUFFIX,wikimedia.fr
 DOMAIN-SUFFIX,wikimedia.it
 DOMAIN-SUFFIX,wikimedia.org
-DOMAIN-SUFFIX,wikimediafoundation.org
 DOMAIN-SUFFIX,wikimirror.org
 DOMAIN-SUFFIX,wikinews.org
 DOMAIN-SUFFIX,wikipdia.org
@@ -33365,6 +33360,11 @@ DOMAIN-SUFFIX,zzz.healthsection.xyz
 DOMAIN-SUFFIX,zzztube.com
 DOMAIN-SUFFIX,zzztube.tv
 DOMAIN-SUFFIX,zzzzzz.me
+IP-ASN,211157,no-resolve
+IP-ASN,44907,no-resolve
+IP-ASN,59930,no-resolve
+IP-ASN,62014,no-resolve
+IP-ASN,62041,no-resolve
 IP-CIDR,1.201.0.0/24,no-resolve
 IP-CIDR,1.37.35.6/32,no-resolve
 IP-CIDR,101.100.179.242/32,no-resolve
@@ -33413,6 +33413,7 @@ IP-CIDR,13.35.0.0/17,no-resolve
 IP-CIDR,139.45.192.1/32,no-resolve
 IP-CIDR,139.45.206.1/32,no-resolve
 IP-CIDR,139.45.234.1/32,no-resolve
+IP-CIDR,139.59.210.98/32,no-resolve
 IP-CIDR,14.102.250.18/31,no-resolve
 IP-CIDR,14.136.135.180/32,no-resolve
 IP-CIDR,14.136.135.196/32,no-resolve
@@ -33744,6 +33745,7 @@ IP-CIDR,195.8.12.202/32,no-resolve
 IP-CIDR,195.8.12.206/32,no-resolve
 IP-CIDR,195.8.12.225/32,no-resolve
 IP-CIDR,195.8.12.227/32,no-resolve
+IP-CIDR,196.55.216.167/32,no-resolve
 IP-CIDR,197.149.149.194/32,no-resolve
 IP-CIDR,197.230.237.209/32,no-resolve
 IP-CIDR,197.230.37.209/32,no-resolve
@@ -33772,9 +33774,6 @@ IP-CIDR,200.114.35.194/32,no-resolve
 IP-CIDR,200.114.35.2/32,no-resolve
 IP-CIDR,200.114.35.66/32,no-resolve
 IP-CIDR,200.114.60.34/32,no-resolve
-IP-CIDR,2001:67c:4e8::/48,no-resolve
-IP-CIDR,2001:b28:f23c::/47,no-resolve
-IP-CIDR,2001:b28:f23f::/48,no-resolve
 IP-CIDR,201.148.100.94/32,no-resolve
 IP-CIDR,201.148.101.122/32,no-resolve
 IP-CIDR,201.148.101.126/32,no-resolve
@@ -33960,7 +33959,6 @@ IP-CIDR,2620:120:e000::/40,no-resolve
 IP-CIDR,27.0.236.0/22,no-resolve
 IP-CIDR,2a00:86c0::/32,no-resolve
 IP-CIDR,2a03:5640::/32,no-resolve
-IP-CIDR,2a0a:f280::/32,no-resolve
 IP-CIDR,31.13.24.0/21,no-resolve
 IP-CIDR,31.13.64.0/18,no-resolve
 IP-CIDR,34.192.0.0/16,no-resolve
@@ -33996,6 +33994,7 @@ IP-CIDR,45.57.0.0/17,no-resolve
 IP-CIDR,45.64.40.0/22,no-resolve
 IP-CIDR,49.231.114.6/32,no-resolve
 IP-CIDR,49.231.121.6/32,no-resolve
+IP-CIDR,5.28.192.0/18,no-resolve
 IP-CIDR,50.125.239.30/32,no-resolve
 IP-CIDR,50.125.68.250/32,no-resolve
 IP-CIDR,50.22.198.204/30,no-resolve
@@ -34401,12 +34400,20 @@ IP-CIDR,96.23.20.78/32,no-resolve
 IP-CIDR,96.4.63.99/32,no-resolve
 IP-CIDR,99.81.97.56/32,no-resolve
 IP-CIDR6,2001:67c:4e8::/48,no-resolve
+IP-CIDR6,2001:b28:f23c::/47,no-resolve
 IP-CIDR6,2001:b28:f23d::/48,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
+IP-CIDR6,2a0a:f280::/29,no-resolve
 IP-CIDR6,2a0a:f280::/32,no-resolve
+OR,((IP-ASN,44907,no-resolve),(IP-ASN,59930,no-resolve),(IP-ASN,62014,no-resolve),(IP-ASN,62041,no-resolve),(IP-ASN,211157,no-resolve))
 PROCESS-NAME,com.viu.pad
 PROCESS-NAME,com.viu.phone
 PROCESS-NAME,com.vuclip.viu
+PROCESS-NAME,nekox.messenger
+PROCESS-NAME,org.telegram.messenger
+PROCESS-NAME,telegram-desktop
+PROCESS-NAME,tw.nekomimi.nekogram
+PROCESS-NAME,xyz.nextalone.nagram
 URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/
 USER-AGENT,*Spotify*
 USER-AGENT,*YouTubeMusic*
@@ -34460,6 +34467,7 @@ USER-AGENT,Prime%20Video*
 USER-AGENT,PrimeVideo*
 USER-AGENT,Roam*
 USER-AGENT,SoundCloud*
+USER-AGENT,SpeedTest*
 USER-AGENT,Spotify*
 USER-AGENT,TIDAL*
 USER-AGENT,TIDAL*dia
